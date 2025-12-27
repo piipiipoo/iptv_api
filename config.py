@@ -5,6 +5,8 @@ ip_version_priority = "ipv4"
 
 # 直播源URL列表
 source_urls = [
+    "https://iptv-org.github.io/iptv/countries/hk.m3u",
+    "https://iptv-org.github.io/iptv/countries/tw.m3u",
     "http://migu.youdu.fan:8008",
     "https://cnb.cool/junchao.tang/live/-/git/raw/main/全球通.py",
     "https://raw.githubusercontent.com/zxmlxw520/5566/refs/heads/main/cjdszb.txt",
