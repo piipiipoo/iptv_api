@@ -1,6 +1,7 @@
 更新日期,#genre#
 央视频道,#genre#
 广东频道,#genre#
+湖南频道,#genre#
 卫视频道,#genre#
 港·澳·台,#genre#
 少儿频道,#genre#
