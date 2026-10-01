@@ -1,5 +1,5 @@
 更新日期,#genre#
-2026-09-28,https://codeberg.org/alantang/photo/raw/branch/main/Robot.mp4
+2026-10-01,https://codeberg.org/alantang/photo/raw/branch/main/Robot.mp4
 央视频道,#genre#
 CCTV1,http://101.35.240.114:88/live.php?id=CCTV1$IPV4•线路1
 CCTV1,http://113.95.132.166:554/rtp/239.77.0.119:5146$IPV4•线路2
